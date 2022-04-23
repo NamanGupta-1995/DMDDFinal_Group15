@@ -1,0 +1,1 @@
+CREATE NONCLUSTERED INDEX IX_VenueName ON Venue(VenueName);

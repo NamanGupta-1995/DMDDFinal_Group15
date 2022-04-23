@@ -1,0 +1,1 @@
+CREATE INDEX MatchPlayedOnDate ON Match (MatchDate);

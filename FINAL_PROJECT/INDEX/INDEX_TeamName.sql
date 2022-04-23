@@ -1,0 +1,1 @@
+CREATE NONCLUSTERED INDEX IX_TeamName ON Team(Name) ;
